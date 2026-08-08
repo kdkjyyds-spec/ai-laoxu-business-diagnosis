@@ -134,7 +134,7 @@ git push origin main
 | `references/24-dimensions-rubric.md` | 24 维度评估 | 想做更细的评估 |
 | `scripts/build_report.py` | MD → HTML + PDF 转换器 | 跑 `python scripts/build_report.py xxx.md` |
 | `examples/` | 实际诊断案例 | 看别人怎么用的 |
-| `examples/case-library/README.md` | K 盘案例库说明 | 想用 1182 个脱敏案例 |
+| `examples/case-library/README.md` | 案例库说明 | 想用 2000 个脱敏案例 |
 
 ---
 
